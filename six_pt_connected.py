@@ -7,7 +7,6 @@ import numpy as np
 
 import seaborn as sns
 import matplotlib as mpl
-import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib import rc
 
